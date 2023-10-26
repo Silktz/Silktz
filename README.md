@@ -1,9 +1,9 @@
 <ul dir="auto">
 <li>
-<p dir="auto">💼 FrontEnd Engineer at <a href="http://razorpay.com/" rel="nofollow">Razorpay</a></p>
+<p dir="auto">🏫 Languages Student in HTML,CSS,JS,PHP on ETEC Mongaguá <a href="https://eteab.com.br/cms/" rel="nofollow">Razorpay</a></p>
 </li>
 <li>
-<p dir="auto">📈 Built github-readme-stats, verlyjs and more, <strong>50m+</strong> hits • <strong>50K</strong> stars on GitHub</p>
+<p dir="auto">📈 , verlyjs and more, <strong>50m+</strong> hits • <strong>50K</strong> stars on GitHub</p>
 </li>
 <li>
 <p dir="auto">❤️ I love writing TypeScript, and building fun experiments on type-level</p>
