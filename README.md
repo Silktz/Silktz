@@ -10,5 +10,5 @@
 </li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silktz&exclude_repo=cem_clipnet&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=silktz&show_icons=true&count_private=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silktz&exclude_repo=cem_clipnet&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=silktz&show_icons=true&count_private=true&theme=tokyonight)
