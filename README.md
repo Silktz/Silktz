@@ -18,4 +18,6 @@
 
 ![Silktz Status](https://github-readme-stats.vercel.app/api?username=silktz&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=silktz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=silktz)](https://github.com/anuraghazra/github-readme-stats)
+
 
