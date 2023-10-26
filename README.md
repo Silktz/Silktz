@@ -3,7 +3,7 @@
 <p dir="auto">🏫 Languages Student in HTML,CSS,JS,PHP on <a href="https://eteab.com.br/cms/" rel="nofollow">ETEC MONGAGUÁ - SÃO PAULO</a></p>
 </li>
 <li>
-<p dir="auto">📈 , verlyjs and more, <strong>50m+</strong> hits • <strong>50K</strong> stars on GitHub</p>
+<p dir="auto">📈 Focused on developing myself</p>
 </li>
 <li>
 <p dir="auto">❤️ I love writing TypeScript, and building fun experiments on type-level</p>
