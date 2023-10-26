@@ -3,10 +3,7 @@
 <p dir="auto">🏫 Languages Student in HTML,CSS,JS,PHP on <a href="https://eteab.com.br/cms/" rel="nofollow">ETEC MONGAGUÁ - SÃO PAULO</a></p>
 </li>
 <li>
-<p dir="auto">📈 Focused on developing myself</p>
-</li>
-<li>
-<p dir="auto">❤️ I love writing TypeScript, and building fun experiments on type-level</p>
+<p dir="auto">📈 Focused on developing myself how Developer</p>
 </li>
 <li>
 <p dir="auto">💬 Ask me about anything <a href="https://github.com/anuraghazra/anuraghazra/issues">here</a></p>
