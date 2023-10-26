@@ -1,6 +1,6 @@
 <ul dir="auto">
 <li>
-<p dir="auto">🏫 Languages Student in HTML,CSS,JS,PHP on <a href="https://eteab.com.br/cms/" rel="nofollow">ETEC MONGAGUÁ</a></p>
+<p dir="auto">🏫 Languages Student in HTML,CSS,JS,PHP on <a href="https://eteab.com.br/cms/" rel="nofollow">ETEC MONGAGUÁ - SÃO PAULO</a></p>
 </li>
 <li>
 <p dir="auto">📈 , verlyjs and more, <strong>50m+</strong> hits • <strong>50K</strong> stars on GitHub</p>
